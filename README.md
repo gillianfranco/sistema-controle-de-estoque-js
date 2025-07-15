@@ -1,1 +1,1 @@
-# Sistema de Controle de Estoque com Python
+# Sistema de Controle de Estoque com JavaScript
