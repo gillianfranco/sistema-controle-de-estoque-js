@@ -1,0 +1,29 @@
+{
+  "name": "sistema-controle-de-estoque",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint:check": "prettier --check .",
+    "lint:fix": "prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gillianfranco/sistema-controle-de-estoque-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gillianfranco/sistema-controle-de-estoque-js/issues"
+  },
+  "homepage": "https://github.com/gillianfranco/sistema-controle-de-estoque-js#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  }
+}
